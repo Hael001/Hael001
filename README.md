@@ -1,3 +1,4 @@
+Iae, bem vindo ao meu perfil!
 - 👋 Hi, I’m @Hael001
 - 👀 I’m interested in world of technology, specifically programming.
 - 🌱 I’m currently learning Python.
