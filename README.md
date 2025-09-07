@@ -1,6 +1,6 @@
 Bem vindo ao meu perfil!
 
-Meu nome é Newton Israel de Morais Costa da Silva.
+Meu nome é Newton Israel de Morais Costa da Silva, tenho 26 anos.
 
 No momento estou estou cursando **Analise e Desenvolvimento de Sistemas** IBMR
 
